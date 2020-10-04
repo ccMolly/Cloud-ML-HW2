@@ -33,4 +33,5 @@ Mingxi Chen mc7805@nyu.edu
 ## Run
 	docker run -it mnist
 
-
+## Output
+![](img/screenshot.png)
